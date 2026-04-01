@@ -8,4 +8,6 @@ Interesting Projects: [RotaMaster](https://github.com/tinuwalther/RotaMaster), [
 
 Here you can Find my [Docker images](https://hub.docker.com/search?q=tinuwalther)
 
-I am currently working on a security plugin for [WordPress](https://github.com/tinuwalther/WP-Access-Logger) written in PHP — it's exciting and challenging 🥇. 
+I am currently working on a security plugin for [WordPress](https://github.com/tinuwalther/WP-Access-Logger) written in PHP — it's exciting and challenging 🥇.
+
+![PowerShell Architecture](./powershell-architect.png)
